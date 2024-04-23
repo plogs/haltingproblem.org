@@ -1,6 +1,6 @@
 :
 
-targetDir=/run/media/stevei/plnkx/2019-github/asopposedtowhat.com
+targetDir=/run/media/stevei/plnkx/2019-github/haltingproblem.org
 
 cd $targetDir || {
     echo "Error: could not cd to: $targetDir"
