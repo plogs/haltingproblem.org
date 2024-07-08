@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The halting problem</title>
-    <link>http://localhost:1313/</link>
+    <link>https://haltingproblem.org/</link>
     <description>Recent content on The halting problem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>haltingproblem@thesomething.com (Steve Isaacson)</managingEditor>
     <webMaster>haltingproblem@thesomething.com (Steve Isaacson)</webMaster>
     <lastBuildDate>Sun, 07 Jul 2024 15:10:00 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haltingproblem.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Background</title>
-      <link>http://localhost:1313/posts/background/</link>
+      <link>https://haltingproblem.org/posts/background/</link>
       <pubDate>Sun, 07 Jul 2024 15:10:00 -0800</pubDate><author>haltingproblem@thesomething.com (Steve Isaacson)</author>
-      <guid>http://localhost:1313/posts/background/</guid>
+      <guid>https://haltingproblem.org/posts/background/</guid>
       <description>Alan Turing Alan Turing is best known for his role in breaking the Enigma cipher during World War II, which significantly aided the Allied war efforts against Nazi Germany. He is also considered a father of theoretical computer science and artificial intelligence. Beyond these accomplishments, his theoretical work in the mid-20th century laid the groundwork for modern computing.&#xA;The Halting Problem The halting problem, introduced by Turing in his seminal 1936 paper titled &amp;ldquo;On Computable Numbers, with an Application to the Entscheidungsproblem,&amp;rdquo; addresses a basic question: Is there a general algorithm that can determine whether any given program will eventually stop running (halt) or will run indefinitely?</description>
     </item>
     <item>
       <title>Proof the halting problem is unsolvable</title>
-      <link>http://localhost:1313/posts/proof-unsolvable/</link>
+      <link>https://haltingproblem.org/posts/proof-unsolvable/</link>
       <pubDate>Sun, 07 Jul 2024 15:09:00 -0800</pubDate><author>haltingproblem@thesomething.com (Steve Isaacson)</author>
-      <guid>http://localhost:1313/posts/proof-unsolvable/</guid>
+      <guid>https://haltingproblem.org/posts/proof-unsolvable/</guid>
       <description>List the various videos of people talking about proof&#xA;videos here videos here videos here videos here videos here videos here videos here videos here videos here videos here videos here videos here videos here videos here videos here </description>
     </item>
     <item>
       <title>An end to the halting problem as we know it</title>
-      <link>http://localhost:1313/posts/problem-with-proof/</link>
+      <link>https://haltingproblem.org/posts/problem-with-proof/</link>
       <pubDate>Sun, 07 Jul 2024 15:08:00 -0800</pubDate><author>haltingproblem@thesomething.com (Steve Isaacson)</author>
-      <guid>http://localhost:1313/posts/problem-with-proof/</guid>
+      <guid>https://haltingproblem.org/posts/problem-with-proof/</guid>
       <description>Is there a problem with the proof?&#xA;Almost no one believes that.</description>
     </item>
     <item>
       <title>Turing machines</title>
-      <link>http://localhost:1313/posts/turing-machines/</link>
+      <link>https://haltingproblem.org/posts/turing-machines/</link>
       <pubDate>Sun, 07 Jul 2024 15:07:00 -0800</pubDate><author>haltingproblem@thesomething.com (Steve Isaacson)</author>
-      <guid>http://localhost:1313/posts/turing-machines/</guid>
+      <guid>https://haltingproblem.org/posts/turing-machines/</guid>
       <description>Tell me about Turing machines.&#xA;Here.&#xA;And here.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/page/about/</link>
+      <link>https://haltingproblem.org/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>haltingproblem@thesomething.com (Steve Isaacson)</author>
-      <guid>http://localhost:1313/page/about/</guid>
+      <guid>https://haltingproblem.org/page/about/</guid>
       <description>Explanation goes here.&#xA;TODO</description>
     </item>
   </channel>
