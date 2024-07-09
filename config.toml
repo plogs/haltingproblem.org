@@ -1,5 +1,8 @@
-baseURL = "http://example.org/"
+# baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Hugo Template Site"
+# title = "Hugo Template Site"
 
-theme = "haltingproblem"
+# theme = "haltingproblem"
+
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"

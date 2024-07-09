@@ -1,0 +1,127 @@
+###stevei baseurl = "https://username.github.io"
+baseurl = "https://haltingproblem.org"
+DefaultContentLanguage = "en"
+title = "The halting problem"
+# Using theme as git submodule 
+theme = "beautifulhugo"
+# Or when using theme as hugo module
+# theme = "github.com/halogenica/beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "explained"
+  mainSections = ["post","posts"]
+  ###stevei logo = "img/avatar-icon.png" # Expecting square dimensions
+  ###stevei favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  # rss = true
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = true
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = true
+  hideAuthor = true
+  domain = "HaltingProblem.org"
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "Steve Isaacson"
+  website = "haltingproblem.org"
+  email = "haltingproblem@thesomething.com"
+###stevei   facebook = "username"
+###stevei   github = "username"
+###stevei   gitlab = "username"
+###stevei   bitbucket = "username"
+###stevei   twitter = "username"
+###stevei   reddit = "username"
+###stevei   linkedin = "username"
+###stevei   xing = "username"
+###stevei   stackoverflow = "users/XXXXXXX/username"
+###stevei   snapchat = "username"
+###stevei   instagram = "username"
+###stevei   youtube = "user/username" # or channel/channelname
+###stevei   soundcloud = "username"
+###stevei   spotify = "username"
+###stevei   bandcamp = "username"
+###stevei   itchio = "username"
+###stevei   vk = "username"
+###stevei   paypal = "username"
+###stevei   telegram = "username"
+###stevei   500px = "username"
+###stevei   codepen = "username"
+###stevei   mastodon = "url"
+###stevei   kaggle = "username"
+###stevei   weibo = "username"
+###stevei   slack = "username"
+###stevei   medium = "username"
+###stevei   discord = "invite code (https://discord.gg/XXXXXXX)"
+###stevei   strava = "userid"
+
+[[menu.main]]
+    name = "Pages"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+###stevei [[menu.main]]
+###stevei     identifier = "samples"
+###stevei     name = "Samples"
+###stevei     weight = 2
+###stevei 
+###stevei [[menu.main]]
+###stevei     parent = "samples"
+###stevei     name = "Big Image Sample"
+###stevei     url = "post/2017-03-07-bigimg-sample"
+###stevei     weight = 1
+###stevei 
+###stevei [[menu.main]]
+###stevei     parent = "samples"
+###stevei     name = "Math Sample"
+###stevei     url = "post/2017-03-05-math-sample"
+###stevei     weight = 2
+
+###stevei [[menu.main]]
+###stevei     parent = "samples"
+###stevei     name = "Code Sample"
+###stevei     url = "post/2016-03-08-code-sample"
+###stevei     weight = 3
+
+###stevei [[menu.main]]
+###stevei     name = "Tags"
+###stevei     url = "tags"
+###stevei     weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
