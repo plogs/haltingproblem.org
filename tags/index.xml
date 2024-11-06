@@ -5,9 +5,7 @@
     <link>https://haltingproblem.org/tags/</link>
     <description>Recent content in Tags on The halting problem</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>haltingproblem@thesomething.com (Steve Isaacson)</managingEditor>
-    <webMaster>haltingproblem@thesomething.com (Steve Isaacson)</webMaster>
-    <atom:link href="https://haltingproblem.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>info@haltingproblem.org (Steve Isaacson)</managingEditor>
+    <webMaster>info@haltingproblem.org (Steve Isaacson)</webMaster><atom:link href="https://haltingproblem.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
