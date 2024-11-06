@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+# googleAnalytics = "G-DQ6K0D2YWG"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -52,7 +52,7 @@ pygmentsCodefencesGuessSyntax = true
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Steve Isaacson"
   website = "haltingproblem.org"
-  email = "haltingproblem@thesomething.com"
+  email = "info@haltingproblem.org"
 ###stevei   facebook = "username"
 ###stevei   github = "username"
 ###stevei   gitlab = "username"
